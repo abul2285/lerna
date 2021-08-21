@@ -1,5 +1,5 @@
 {
-  "name": "@abul/aloha-world",
+  "name": "@abul2285/aloha-world",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "MD ABUL HOSSAIN <44331073+abul2285@users.noreply.github.com>",
@@ -19,5 +19,6 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "a531c157bf176cd24feefc84b13f7581d0f92fbd"
 }
